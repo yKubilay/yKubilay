@@ -3,6 +3,7 @@
 I'm a Graduate Software Engineer with a Bachelor's in Information Systems
 and Software Engineering from Østfold University College (HIOF).
 
+
 Currently, I'm focusing on becoming a proficient Backend Engineer, diving deep into:
 
 - 🛠️ Golang
@@ -24,6 +25,7 @@ Currently, I'm focusing on becoming a proficient Backend Engineer, diving deep i
  - Frameworks & Tools: Vue 3, React, Git, Vercel, (learning: Docker, AWS, Kubernetes, Terraform).
 
  - Databases: SQL, Postgres MongoDB, Firebase, Neo4j.
+   
 
 💬 Let's Connect
 
