@@ -4,6 +4,8 @@ I'm a Graduate Software Engineer with a Bachelor's in Information Systems
 and Software Engineering from Østfold University College (HIOF).
 
 
+
+
 Currently, I'm focusing on becoming a proficient Backend Engineer, diving deep into:
 
 - 🛠️ Golang
