@@ -19,11 +19,11 @@ Currently, I'm focusing on becoming a proficient Backend Engineer, diving deep i
 
 💡 Tech Skills
 
-- Programming: Go, TypeScript/JavaScript, Python, Java (basic), Scala (basic)
+- Programming: Go, TypeScript/JavaScript, Python, (Basic: Java, Scala).
 
- - Frameworks & Tools: Vue 3, React, Git, Vercel, Docker (learning) AWS (learning), Kubernetes (learning), Terraform (learning)
+ - Frameworks & Tools: Vue 3, React, Git, Vercel, (learning: Docker, AWS, Kubernetes, Terraform).
 
- - Databases: SQL, Postgres MongoDB, Firebase, Neo4j
+ - Databases: SQL, Postgres MongoDB, Firebase, Neo4j.
 
 💬 Let's Connect
 
