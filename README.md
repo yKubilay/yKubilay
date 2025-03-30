@@ -13,7 +13,7 @@ Currently, I'm focusing on becoming a proficient Backend Engineer, diving deep i
 
 🚀 Projects
 
- - Award-winning Bachelor's Thesis (2023): Built a real-time social web app called Stribe using (Vue 3, Pinia, Firebase, Vercel), awarded Best Thesis for innovation, social impact, and technicality.
+ - Bachelor's Project (2023): Built a real-time social web app called Stribe using (Vue 3, Pinia, Firebase, Vercel), awarded Best Thesis for innovation, social impact, and technicality.
 
  - Business Intelligence Project: Developed data-driven strategies with PowerBI, achieving measurable improvements in business performance for Elkjøp (case).
 
