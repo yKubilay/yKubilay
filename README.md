@@ -22,8 +22,8 @@ I'm currently focused on backend development, diving deeper into:
 
 - **Programming:** Go, TypeScript/JavaScript, Python  
 - **Frameworks & Tools:** Vue 3, React, Git, Vercel  
-  **Learning:** Docker, AWS (S3, IAM), Kubernetes, Terraform  
 - **Databases:** SQL, Postgres, MongoDB, Firebase, Neo4j
+- **Learning:** Docker, AWS (S3, IAM), Kubernetes, Terraform  
 
 ---
 
