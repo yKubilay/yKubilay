@@ -2,7 +2,7 @@
 
 I'm a Graduate Software Engineer with a Bachelor's in Information Systems and Software Engineering from Østfold University College (HIOF).
 
-I'm currently focused on backend development, diving deeper into:
+I'm currently focusing on backend development, diving deeper into:
 
 - 🛠️ Golang
 - ☁️ AWS Cloud Services
