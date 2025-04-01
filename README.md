@@ -1,55 +1,33 @@
 ## Hi there 👋
 
-I'm a Graduate Software Engineer with a Bachelor's in Information Systems
-and Software Engineering from Østfold University College (HIOF).
+I'm a Graduate Software Engineer with a Bachelor's in Information Systems and Software Engineering from Østfold University College (HIOF).
 
-
-
-
-Currently, I'm focusing on becoming a proficient Backend Engineer, diving deep into:
+I'm currently focused on backend development, diving deeper into:
 
 - 🛠️ Golang
-
-- ☁️ AWS Cloud Services
-
+- ☁️ AWS Cloud Services (S3, IAM)
 - ⚙️ DevOps (Docker, Kubernetes, CI/CD, Terraform)
+
+---
 
 🚀 Projects
 
- - Bachelor's Project (2023): Built a real-time social web app called Stribe using (Vue 3, Pinia, Firebase, Vercel), awarded Best Thesis for innovation, social impact, and technicality.
+- [Stribe – Bachelor's Project](https://github.com/yKubilay/stribe): A real-time social web app built with Vue 3, Pinia, Firebase, and Vercel. Awarded Best Thesis 2023 for innovation, social impact, and technicality.
 
- - Business Intelligence Project: Developed data-driven strategies with PowerBI, achieving measurable improvements in business performance for Elkjøp (case).
+- Business Intelligence Project: Developed data-driven strategies with PowerBI, achieving measurable improvements in business performance for Elkjøp (case).
+
+---
 
 💡 Tech Skills
 
-- Programming: Go, TypeScript/JavaScript, Python, (Basic: Java, Scala).
+- **Programming:** Go, TypeScript/JavaScript, Python  
+- **Frameworks & Tools:** Vue 3, React, Git, Vercel  
+  **Learning:** Docker, AWS (S3, IAM), Kubernetes, Terraform  
+- **Databases:** SQL, Postgres, MongoDB, Firebase, Neo4j
 
- - Frameworks & Tools: Vue 3, React, Git, Vercel, (learning: Docker, AWS, Kubernetes, Terraform).
-
- - Databases: SQL, Postgres MongoDB, Firebase, Neo4j.
-   
+---
 
 💬 Let's Connect
 
-📫 Email: kubioz@icloud.com
-
-🔗 LinkedIn: www.linkedin.com/in/kubilaykerimozdemir
-
-
-
-
-<!--
-**yKubilay/yKubilay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+📫 Email: kubioz@icloud.com  
+🔗 LinkedIn: [linkedin.com/in/kubilaykerimozdemir](https://www.linkedin.com/in/kubilaykerimozdemir)
