@@ -27,7 +27,5 @@ I'm currently focused on backend development, diving deeper into:
 
 ---
 
-💬 Let's Connect
-
 📫 Email: kubioz@icloud.com  
 🔗 LinkedIn: [linkedin.com/in/kubilaykerimozdemir](https://www.linkedin.com/in/kubilaykerimozdemir)
