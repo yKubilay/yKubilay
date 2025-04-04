@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 I'm a Graduate Software Engineer with a Bachelor's in Information Systems and Software Engineering from Østfold University College (HIOF).
 
@@ -23,7 +23,7 @@ I'm currently focusing on backend development, diving deeper into:
 - **Programming:** Go, TypeScript/JavaScript, Python  
 - **Frameworks & Tools:** Vue 3, React, Git, Vercel  
 - **Databases:** SQL, Postgres, MongoDB, Firebase, Neo4j
-- **Learning:** Docker, AWS (S3, IAM), Kubernetes, Terraform  
+- **Learning:** Docker, AWS, Kubernetes, Terraform  
 
 ---
 
