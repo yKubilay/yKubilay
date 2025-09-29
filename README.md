@@ -18,10 +18,10 @@ A real-time social web app built with Vue 3, Pinia, Firebase, and Vercel. Awarde
 
 ## Tech Skills  
 
-**Programming:** Go, TypeScript/JavaScript, Python  
-**Frameworks & Tools:** React, Vue 3, Git, Vercel, Docker  
+**Programming:** Go, TypeScript/JavaScript, Python, Java, Scala  
+**Frameworks & Tools:** React, Vue 3, Next.js, Git, GitHub Actions, Vercel, Docker, Firebase  
 **Databases:** SQL, Postgres, MongoDB, Firebase, Neo4j  
-**Currently learning:** Deepening backend development in Go, and hands-on with cloud infrastructure (Docker, GCP).
+**Currently learning:** Deepening backend development in Go, hands-on with cloud infrastructure (Docker, GCP, AWS)
 
 ## Contact  
 📫 Email: kubioz@icloud.com  
